@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339546022024",
+    "project_id": "kalorimatik",
+    "storage_bucket": "kalorimatik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339546022024:android:90333ffe8a03d0f3467f3d",
+        "android_client_info": {
+          "package_name": "com.example.kalorimatik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4v-aa9XwHAQyghAyFvxjbdpdA0md4gH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
